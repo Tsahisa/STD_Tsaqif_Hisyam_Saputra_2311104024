@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1730812859 source:c:\development\c++\struktur data\07_stack\latihan unguided\main.cpp
+	<iostream>
+	"stack.h"
+
+1730812859 c:\development\c++\struktur data\07_stack\latihan unguided\stack.h
+
+1730812859 source:c:\development\c++\struktur data\07_stack\latihan unguided\stack.cpp
+	<iostream>
+	"stack.h"
+
